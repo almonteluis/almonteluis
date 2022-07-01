@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**almonteluis/almonteluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... email is best way to contact me: almonteluis92@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... you can catch me on my PS5 playing CoD or 2k after a long coding session.
--->
+
