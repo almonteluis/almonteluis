@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... you can catch me on my PS5 playing CoD or 2k after a long coding session.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
