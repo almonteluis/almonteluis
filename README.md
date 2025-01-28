@@ -34,4 +34,6 @@
 &nbsp; <a href="mailto:almonteluis92@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/678f2c2598c00f7117a993ec?variant=dark" alt="roadmap.sh"/></a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=almonteluis.${your.repo.id})
